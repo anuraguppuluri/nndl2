@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# ## 1 - Packages ##
+# ## 1 - Packages 
 # 
 # First, let's run the cell below to import all the packages that you will need during this assignment. 
 # - [numpy](https://www.numpy.org/) is the fundamental package for scientific computing with Python.
